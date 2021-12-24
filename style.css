@@ -1,0 +1,22 @@
+.top {
+    background-color: rgba(211, 211, 211, .4);
+    text-align: center;
+    font-weight: bold;
+}
+
+#img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list {
+    font-family: Arial, sans-serif;
+}
+
+.sect {
+    background-color: rgba(211, 211, 211, .6);
+    text-align: center;
+}
